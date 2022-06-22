@@ -1,0 +1,13 @@
+#success_message {
+    display: none;
+}
+
+#id {
+    justify-items: center;
+    align-items: center;
+    margin-left: 100px;
+}
+
+button {
+    margin: 0px 40px;
+}
